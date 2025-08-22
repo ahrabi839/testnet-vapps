@@ -1,4 +1,5 @@
-# vApp Submission: [Your Project Name]
+
+# vApp Submission: social
 
 ## Verification
 ```yaml
@@ -16,8 +17,8 @@ timestamp: "2025-08-22"
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
-- **Category**: identity/defi/social/gaming/infrastructure/other
+- **Project**: social_project
+- **Category**: social
 
 ### Description
 What problem does your vApp solve? What does it do?
